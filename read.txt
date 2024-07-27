@@ -1,0 +1,23 @@
+django.contrib: It is used for admin interface and authentication.
+ 
+django.contrib.auth.models: It provides models for user authentication.
+ 
+ 
+django.views.generic: It provides generic class-based views such as 'ListView','DetailView', 'CreateView' ,'UpdateView' and 'DeleteView'.
+
+ 
+django.urls: Used for url routing and configuration.
+ 
+django.db: It provides database interaction functionality.
+ 
+django.template: It is used for rendering templates.
+django.apps: It is used for application configuration.
+ 
+django.forms: It is used for creating and handling forms.
+ 
+django.views: It provides various classes and function such as 'View' and 'TemplateView'.
+
+ 
+django.shortcuts : It is used for utility functions such as render and redirect.
+ 
+ 
